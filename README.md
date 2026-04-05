@@ -1,17 +1,36 @@
-## Hi there, I'm Nipunika 👋
+# Nipunika Jain
 
-I am an experienced professional with a 9-year tenure in Software Development and Data Science, specializing in creating and deploying robust, data-driven solutions. 
-My journey has equipped me with a unique blend of skills that are valuable in product innovation — from analytical prowess to a strategic approach to problem-solving.
+AI Product Manager. I build agentic AI systems, run model experiments, and document what I find.
 
-🖥️ [nipunikajain.com](https://www.nipunikajain.com/) Under Construction!!
+10 years across ML engineering, enterprise consulting, and product management.
+Currently experimenting at the intersection of LLMs, agentic architectures, and production AI systems.
 
-🌎 I'm the most productive when I work on challenging projects!
+---
 
-[//]: # (✋🏼 Reach out to me on [mihai@aiflow.ltd]&#40;mailto:mihai@aiflow.ltd?subject=Hi%20Mihai%2C%20let's%20have%20a%20chat&#41; or [LinkedIn]&#40;https://www.linkedin.com/in/mihaianton98/&#41;)
+## Active Experiments
 
-📹 [Schedule a meeting](https://calendly.com/nipunikajain/coffee-chat-with-nipunika?month=2024-06)
+| Experiment | Question | Status |
+|---|---|---|
+| llm-classifier-bench | Which model should enterprise teams use for regulated document classification? | 🔄 In progress |
+| agent-arch-reliability | How much does agent architecture actually affect reliability? | 🔜 Starting Apr 8 |
 
-[//]: # ([![BuyMeACoffee]&#40;https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&#41;]&#40;https://www.buymeacoffee.com/MihaiAnton98&#41; )
+---
 
+## Stack
 
-[//]: # (![]&#40;https://komarev.com/ghpvc/?username=MihaiAnton&#41;)
+**Models & Orchestration:** Claude API, OpenAI API, LangGraph, LangChain  
+**ML:** LightGBM, XGBoost, PyTorch, Scikit-learn, HuggingFace, MLflow  
+**Infra:** FastAPI, Docker, CI/CD, Azure (Databricks, Data Factory), AWS (SageMaker, Bedrock)  
+**Languages:** Python, SQL, TypeScript  
+**Tools:** Cursor, GitHub Copilot
+
+---
+
+## Selected Work
+
+- [comp-intel-agent](https://github.com/nipunikajain/comp-intel-agent) — Agentic competitive intelligence platform built with LangGraph + Claude API
+- [ExperimentsWithLLM](https://github.com/nipunikajain/ExperimentsWithLLM) — LLM experiments and evaluations
+
+---
+
+[LinkedIn](https://linkedin.com/in/nipunikajain) · nipunikajain@gmail.com
