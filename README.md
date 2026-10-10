@@ -2,7 +2,7 @@
 
 **AI product manager, end to end: I find the gap, define the problem, build the solution, and get it adopted.**
 
-Senior AI Product Manager at Infoblox, on Infoblox IQ, an AI assistant and agent platform for enterprise networking and security. Before that, ten years from ML engineering (Accenture, Ecolab) to AI product (Aioneers, Deloitte, Sage), and an MBA at UBC Sauder (2026). Vancouver.
+Senior AI Product Manager at Infoblox, on Infoblox IQ, an AI assistant and agent platform for enterprise networking and security. Before that, ten years from ML engineering to AI product, and an MBA at UBC Sauder (2026). Vancouver.
 
 **At work, recently:** took AI guardrail block accuracy from 74% to ~94% with a two-pass, context-aware LLM classifier and drove it from proof of concept to production. Shipped an MCP agent endpoint so customers can embed Infoblox IQ in their own agent stacks. Built the first customer-level AI COGS model, which showed QA traffic was 97% of measured inference cost.
 
