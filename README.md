@@ -46,4 +46,4 @@ Claude API · OpenAI API · Gemini · LangGraph · MCP · A2A · FastAPI · Next
 
 ---
 
-[LinkedIn](https://linkedin.com/in/nipunikajain) · [CV](https://github.com/nipunikajain/NipunikaJain/blob/main/Nipunika_Jain_CV.pdf) · [X](https://x.com/nipunikajain) · nipunikajain@gmail.com
+[nipunikajain.github.io](https://nipunikajain.github.io/) · [LinkedIn](https://linkedin.com/in/nipunikajain) · [CV](https://github.com/nipunikajain/NipunikaJain/blob/main/Nipunika_Jain_CV.pdf) · [X](https://x.com/nipunikajain) · nipunikajain@gmail.com
